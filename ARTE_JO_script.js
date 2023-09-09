@@ -1,0 +1,4 @@
+
+function SALUDO(){
+    showalert("HOLA");
+}
